@@ -148,8 +148,7 @@ VLESS, VMess, Trojan, WebSocket, HTTPS upgrade, split HTTP etc.
 
 ## ✨ Support
 
-To support us, we kindly invite you to click on the star (⭐) at the top of this page. Your support is greatly appreciated!
-<p align=center>
+To support us, we kindly invite you to click on the star (⭐) at the top of this page. Your support is greatly appreciated!.
 We sincerely appreciate all individuals participating in this project, both within our community and beyond GitHub. Your involvement means a great deal to us, and we are truly grateful for your support. </p>
 
 
